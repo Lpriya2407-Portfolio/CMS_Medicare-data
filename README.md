@@ -15,20 +15,16 @@ The analysis includes:
 
 medicare_project/
 
-├──  [Data](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
+├── [Data](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
 
 ├── [Sql](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
 
 └── README.md 
 
 ---
+## 🖼️ Sample Visuals
 
-**Folder Details:**
-
-- **data/**: Contains the cleaned CSV file, formatted for direct PostgreSQL import  
-- **sql/**: SQL scripts including table creation, import commands, and example analytics queries  
-- **README.md**: This file — project description and repo structure  
-
+![Dashboard preview](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/eda_plots.png)
 ---
 
 ## Highlights
