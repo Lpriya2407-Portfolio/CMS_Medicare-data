@@ -15,16 +15,19 @@ The analysis includes:
 
 medicare_project/
 
-├── [Data](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
+├── [Dashboard](https://github.com/Lpriya2407-Portfolio/CMS_Medicare-data/tree/main/CMS%20MEDICARE%20CLAIMS/Dashboard)
 
-├── [Sql](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
+├── [Data](https://github.com/Lpriya2407-Portfolio/CMS_Medicare-data/tree/main/CMS%20MEDICARE%20CLAIMS/Data)
+
+├── [Images](https://github.com/Lpriya2407-Portfolio/CMS_Medicare-data/tree/main/CMS%20MEDICARE%20CLAIMS/Images)
 
 └── README.md 
 
 ---
 ## 🖼️ Sample Visuals
 
-![Dashboard preview](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/blob/main/Healthcare_Analytics_Project/Images/eda_plots.png)
+![Dashboard preview](https://github.com/Lpriya2407-Portfolio/CMS_Medicare-data/blob/main/CMS%20MEDICARE%20CLAIMS/Images/Dasboard_Preview.PNG)
+
 ---
 
 ## Highlights
