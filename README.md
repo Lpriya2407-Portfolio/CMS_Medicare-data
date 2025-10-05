@@ -15,9 +15,9 @@ The analysis includes:
 
 medicare_project/
 
-├── data/
+├──  [Data](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
 
-├── sql/
+├── [Sql](https://github.com/Lpriya2407-Portfolio/CA_Hospital_Financial_Analytics_2023_2024/tree/main/Healthcare_Analytics_Project/Data)
 
 └── README.md 
 
