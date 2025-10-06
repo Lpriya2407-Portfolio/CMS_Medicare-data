@@ -13,7 +13,7 @@ The analysis includes:
 
 ## Repository Structure
 
-medicare_project/
+CMS MEDICARE CLAIMS/
 
 ├── [Dashboard](https://github.com/Lpriya2407-Portfolio/CMS_Medicare-data/tree/main/CMS%20MEDICARE%20CLAIMS/Dashboard)
 
