@@ -1,7 +1,7 @@
-# Medicare 2016 Data Analysis
+# Medicare 2016-21 Data Analysis
 
 ## Project Overview
-This project explores the **CMS Medicare 2016 dataset** to analyze hospital discharges, program payments, patient utilization, and coverage metrics. It showcases **healthcare data analytics skills** using PostgreSQL and clean, structured datasets.
+This project explores the **CMS Medicare Inpatient dataset** to analyze hospital discharges, program payments, patient utilization, and coverage metrics. It showcases **healthcare data analytics skills** using PostgreSQL and clean, structured datasets.
 
 The analysis includes:
 - 🏥 Total hospital discharges and days of care  
