@@ -21,6 +21,10 @@ medicare_project/
 
 ├── [Images](https://github.com/Lpriya2407-Portfolio/CMS_Medicare-data/tree/main/CMS%20MEDICARE%20CLAIMS/Images)
 
+├── [Sql query](https://github.com/Lpriya2407-Portfolio/CMS_Medicare-data/tree/main/CMS%20MEDICARE%20CLAIMS/Sql%20query)
+
+├── [Summary](https://github.com/Lpriya2407-Portfolio/CMS_Medicare-data/tree/main/CMS%20MEDICARE%20CLAIMS/Summary)
+
 └── README.md 
 
 ---
